@@ -5,6 +5,7 @@
 <h1 align="center">Zero Enclave</h1>
 
 <p align="center">
+  <strong>Private by design.</strong><br>
   Encrypted photo and video vault for iPhone.<br>
   Local only · zero knowledge · open source
 </p>
